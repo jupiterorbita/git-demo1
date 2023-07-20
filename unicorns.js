@@ -5,4 +5,3 @@ console.log("hello git");
 console.log("🦄🦄🦄🦄🦄🦄")
 console.log("🦄🦄🦄🦄🦄🦄")
 console.log("🦄🦄🦄🦄🦄🦄")
-console.log("🦄🦄🦄🦄🦄🦄")
